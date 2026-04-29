@@ -38,7 +38,12 @@ Key charts used in this analysis include:
 - Mental Health Severity by Region  
 - Treatment Gap vs Crisis Index (Scatter Plot)  
 - GDP per Capita vs Crisis Index (Scatter Plot)  
-- Top 10 Countries Most in Need of Mental Health Investment  
+- Top 10 Countries Most in Need of Mental Health Investment
+
+## Sample Visuals
+
+### Treatment Gap vs Crisis
+![Treatment Gap vs Crisis](visuals/Treatment Gap vs Crisis.png)
 
 ## Conclusion
 Mental health crisis severity is most strongly associated with limited access to treatment and economic constraints. Countries with high treatment gaps and low GDP consistently experience the worst outcomes, indicating that investment in low-income regions would have the greatest impact.
