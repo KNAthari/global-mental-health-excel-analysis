@@ -44,6 +44,11 @@ Key charts used in this analysis include:
 
 ### Treatment Gap vs Crisis
 ![Treatment Gap vs Crisis](Visuals/treatment-gap-vs-crisis.png)
+
+### GDP vs Crisis
+![GDP vs Crisis](Visuals/gpd-per-capita-vs-crisis.png)
+
+### Top 10 Priority Countries
 ![Top 10 Priority Countries](Visuals/top-10-countries-most-in-need-of-mental-health-investment.png)
 
 ## Conclusion
